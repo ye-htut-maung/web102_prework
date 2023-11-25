@@ -23,11 +23,13 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/uFvGPVS' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/WVFfNYf.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+[Imgur](https://i.imgur.com/WVFfNYf.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 
-GIF created with gifine
+GIF created with ScreenToGif
 
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
